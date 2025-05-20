@@ -6,7 +6,7 @@
 To set up the development environment for this project, follow these steps:
 
 1.  **Clone the repository:**
-    ```bash
+ 
     git clone https://github.com/Fentahun022/solar-challenge-week1.git
     cd solar-challenge-week1
     ```
