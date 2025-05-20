@@ -4,3 +4,5 @@ matplotlib
 seaborn
 scipy
 jinja2>=3.0
+streamlit  
+plotly  
