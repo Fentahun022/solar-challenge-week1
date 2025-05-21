@@ -75,3 +75,4 @@ To set up the development environment for this project, follow these steps:
     *   View a table ranking countries by their average daytime Global Horizontal Irradiance (GHI).
 *   **Individual Country EDA:**
     *   Select a country to view a sample of its data and basic time series plots (e.g., GHI over time) and distribution plots (e.g., Tamb histogram).
+    
